@@ -1,0 +1,11 @@
+{
+  "name": "picture-in-play",
+  "title": "Picture in Play",
+  "id": "jid1-BmBEdNsy9Y1EnQ",
+  "icon": "data/icon48.png",
+  "icon64": "data/icon64.png",
+  "description": "Indicates whether the `picture` element is in use on a page.",
+  "author": "Mat",
+  "license": "MIT",
+  "version": "1.0"
+}
