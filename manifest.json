@@ -1,9 +1,11 @@
 {
   "name": "Picture in Play",
   "version": "1.0",
+  "manifest_version": 2,
   "description": "Indicates whether the `picture` element is in use on a page.",
   "content_scripts": [
     {
+      "matches": ["*://*/*"],
       "js": ["pictureinplay.js"]
     }
   ],
