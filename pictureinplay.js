@@ -13,7 +13,7 @@
 			"width: 16px;" +
 			"position: fixed;" +
 			"bottom: .25em;" +
-			"right: .1em;" +
+			"right: .25em;" +
 			"z-index: 9999";
 
 		picinplay.src = "data:image/gif;base64," +
